@@ -8,13 +8,12 @@ body{
     background-image: url(images/unitBg.png);
     background-size: cover;
     border-radius: 10px;
-    border: 3px solid #59b891;
+    box-shadow: 0 0 25px whitesmoke;
     width: 1028px;
     height: 578px;
     position: relative;
     left: 215px;
     top: 100px;
-    border: 3px solid black;
     overflow: hidden;
     }
 

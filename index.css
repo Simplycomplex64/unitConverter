@@ -8,7 +8,7 @@ body{
     background-image: url(images/unitBg.png);
     background-size: cover;
     border-radius: 10px;
-    box-shadow: 0 0 55px whitesmoke;
+    border: 3px solid #59b891;
     width: 1028px;
     height: 578px;
     position: relative;
